@@ -13,7 +13,8 @@
   <img align="center" alt="Amanda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Amanda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Amanda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+
+       
 </div>
   
   ##
